@@ -32,6 +32,8 @@ This is an Overview of all repositories of Retromods I've done or created and th
 
 ## N64
 
+- [N64-Blue-Kit-HW](https://github.com/MrJSA/N64-Blue-Kit-HW)
+- [N64-Blue-Kit-FW](https://github.com/MrJSA/N64-Blue-Kit-FW)
 - Regionfree mod
 - USB-C (To-Do)
 
