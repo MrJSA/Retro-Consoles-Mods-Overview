@@ -39,6 +39,7 @@ This is an Overview of all repositories of Retromods I've done or created and th
 
 ## Gamecube
 
+- Fan Mod
 - USB-C (To-Do)
 
 ## Saturn
@@ -49,4 +50,5 @@ This is an Overview of all repositories of Retromods I've done or created and th
 ## Dreamcast
 
 - ODE Cover
+- Fan Mod
 - USB-C (To-Do)
