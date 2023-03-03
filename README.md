@@ -4,7 +4,7 @@ This is an Overview of all repositories of Retromods I've done or created and th
 
 ## PSX
 
-- ODE Cover
+- [ODE Cover](https://github.com/MrJSA/PSX-XStation-Cover)
 - USB-C (To-Do)
 
 ## PSOne
