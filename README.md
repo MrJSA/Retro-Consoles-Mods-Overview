@@ -2,8 +2,9 @@
 
 This is an Overview of all repositories of Retromods I've done or created and the affiliated Links.
 
-## SONY
-
+<details><summary><h2> SONY </h2></summary>
+<p>
+  
 ### PSX
 
 - [XStation Cover](https://github.com/MrJSA/PSX-XStation-Cover)
@@ -18,15 +19,23 @@ This is an Overview of all repositories of Retromods I've done or created and th
 - [Fan Mod](https://github.com/MrJSA/PS2-Fan-Mod)
 - SSD Tray (To-Do)
 - USB-C (To-Do)
+  
+</p>
+</details>
 
-## MICROSOFT
+<details><summary><h2> MICROSOFT </h2></summary>
+<p>
 
 ### XBOX
 
 - [Fan Mod](https://github.com/MrJSA/XBOX-Fan-Mod)
 - XBOX Wireless (To-Do)
 
-## NINTENDO
+</p>
+</details>
+  
+<details><summary><h2> NINTENDO </h2></summary>
+<p>
 
 ### NES
 
@@ -50,7 +59,11 @@ This is an Overview of all repositories of Retromods I've done or created and th
 - [Fan Mod](https://github.com/MrJSA/Gamecube-Fan-Mod)
 - USB-C (To-Do)
 
-## SEGA
+</p>
+</details>
+  
+<details><summary><h2> SEGA </h2></summary>
+<p>
 
 ### Saturn
 
@@ -62,3 +75,6 @@ This is an Overview of all repositories of Retromods I've done or created and th
 - ODE Cover
 - [Fan Mod](https://github.com/MrJSA/Dreamcast-Fan-Mod)
 - USB-C (To-Do)
+
+</p>
+</details>
