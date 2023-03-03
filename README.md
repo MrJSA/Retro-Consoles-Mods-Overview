@@ -39,7 +39,7 @@ This is an Overview of all repositories of Retromods I've done or created and th
 
 ## Gamecube
 
-- Fan Mod
+- [Fan Mod](https://github.com/MrJSA/Gamecube-Fan-Mod)
 - USB-C (To-Do)
 
 ## Saturn
