@@ -30,6 +30,7 @@ This is an Overview of all repositories of Retromods I've done or created and th
 
 - RGB-Mod
 - USB-C (To-Do)
+- Controller
 
 ## N64
 
